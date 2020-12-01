@@ -36,7 +36,7 @@ In many standards track documents words MUST, SHOULD, and MAY are used to signif
 * **Verified Credential**. A Credential that includes a Proof from the Issuer. Typically this proof is in the form of a digital signature. In Sovrin Infrastructure, a Verifiable Credential uses Zero Knowledge Proofs by default and can usually be verified by the Issuer Public Key stored in the Credential Definition on the Sovrin Ledger. Based on the definition provided by the W3C Verifiable Claims Working Group. (from Sovrin [glossary](https://github.com/trustoverip/concepts-and-terminology-wg/blob/master/submissions/sovrin/Governance_Framework.md)).
 * **Credential Verification** is the evaluation of whether a Verifiable Credential or Verifiable Presentation authentically and accurately represents the Issuer or Presenter. This includes verification that the proof is satisfied (normally via cryptographic validation), confirmation the Credential or Presentation is valid (e.g., is not suspended, revoked, or expired), and that the Credential or Presentation conforms to relevant specifications and/or standards. (from [PCTF Credential](https://diacc.ca/wp-content/uploads/2020/09/PCTF-Credentials-Relationships-Attributes-Component-Overview-Final-Recommendation-V1.0-1.pdf))
 * **Governance Framework** - The set of business, legal, and technical definitions, policies, specifications, and contracts by which the members of a Trust Community agree to be governed in order to achieve their desired Levels of Assurance. Typically divided into a Master Document and a set of Controlled Documents. A Governance Framework is itself governed by a Governance Authority. A Governance Framework is also known as a Trust Framework. (from Sovrin [glossary](https://github.com/trustoverip/concepts-and-terminology-wg/blob/master/submissions/sovrin/Governance_Framework.md))
-![](https://i.imgur.com/rNkoXej.png)
+![Sovrin Governance Framework](https://i.imgur.com/rNkoXej.png)
 
 * **Design** - A design is a plan or specification for the construction of an object or system or for the implementation of an activity or process, or the result of that plan or specification in the form of a prototype, product or process. 
 
@@ -44,7 +44,7 @@ In many standards track documents words MUST, SHOULD, and MAY are used to signif
 
 The ToIP stack does not define specific governance frameworks. Rather it is a metamodel for how to design and implement digital governance frameworks that can be universally referenced, understood, and consumed in order to facilitate transitive trust online. The ToIP governance stack is designed to be compatible with—and an implementation vehicle for—national governance frameworks as well as for regional and local governance frameworks of all kinds.
 
-![](https://i.imgur.com/yDZZ6FW.png)
+![TOIP Governance Stack](https://i.imgur.com/yDZZ6FW.png)
 
 **TL4:** **Ecosystem Governance Frameworks**. Layer Four is where humans will directly experience the ToIP Governance Stack—specifically the trust marks and policy promises of ecosystem governance frameworks. These specify the purpose, principles, and policies that apply to all governance authorities and governance frameworks operating within that ecosystem—at all four levels of the ToIP stack. Any group of issuers who want to standardize, strengthen, and scale the credentials they offer can join together under the auspices of a sponsoring authority to craft a governance framework. No matter the form of the organization—government, consortia, association, cooperative—the purpose is the same: define the business, legal, and technical rules under which the members agree to operate in order to achieve trust.
 
@@ -151,12 +151,9 @@ Below you will find principles and their meaning. Principles are mentioned witho
 
 ## Synopsis
 
-
-
 ## Relevance
 
 We consider that there is a need in documents highlighting not only the very principles of verified credentials governance but also organizing these principles in clear, consise, and appealing way. Therefore we wish that this document will create an emotional feedback from its consumers. We need to remember that for a product to be accepted by corresponding public it has to be of high quality and it has to be wrapped appropriately.
-
 
 ## Trade-offs
   
