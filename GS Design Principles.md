@@ -1,6 +1,3 @@
----
-tags: TOIP, TOIP layers, Governance Frameworks, design principles
----
 # Governance Stack Design Principles
 
 - Authors: Drummond Reed, [Victor Syntez](victorsyntez@gmail.com)
@@ -12,7 +9,7 @@ tags: TOIP, TOIP layers, Governance Frameworks, design principles
 - Start Date: 2020-11-04
 - Tags: (see ../../../tags.md)
 
-[toc]
+[TOC]
 
 ## Summary
 
